@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **rosyid123.ren@@gmail.com**
+- 📫 How to reach me **rosyid123.ren@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny**
 
