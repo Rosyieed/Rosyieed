@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosyieed&label=Profile%20views&color=0e75b6&style=flat" alt="rosyieed" /> </p>
 
-- 🌱 I’m currently learning **Laravel, MERN Stack**
+- 🌱 I’m currently learning **Laravel and MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rosyieed](https://github.com/Rosyieed)
 
